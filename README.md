@@ -1,5 +1,5 @@
 # Floodlight-Firewall
-Python script to implement Floodlight controller for implementing forwarding and firewall functionality
+Python script to implement Floodlight controller for adding forwarding and firewall functionality using static rules
 
 Steps:
 1. Before initializing Floodlight, edit the file - /home/sdn/floodlight/src/main/resources/ floodlightdefault.properties file and remove the line - net.floodlightcontroller.forwarding.Forwarding,\
